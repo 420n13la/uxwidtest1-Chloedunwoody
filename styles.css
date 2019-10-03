@@ -1,3 +1,50 @@
 body{
-
+	font-family= Helvetica, sans-serif;
+	background-image="pattern.png";
+}	
+.wrapper{
+	width= 77%;
+	scree-align= center;
+	padding =3%;
+margin= 33px;
+background-color= whitesmoke;	
+}
+#frame{
+	text-align= center;
+	align =center;
+	size= 470px;
+	height= 100%;
+	width= 100%;
+}
+#legend{
+	color= #95484b bold;
+	text-align= center;
+	background-color= white;
+	display >100%;
+	
+}
+img{
+	width= 11%;
+	padding= 30px;
+}
+header{
+	padding= 9px;
+	background-color = gradient, Top to bottom,#95484b,#af595c,#6f3032
+}
+footer{
+	padding-top= 1em;
+	padding-bottom= 1em;
+	text-align= center;
+	
+}
+a{
+	text-decoration= none;
+	border= white, 3px;
+	background-color= #95484b;
+	color= white;
+	padding= 0.2em;
+}
+#heart{
+	color= deeppink;
+	
 }
